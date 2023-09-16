@@ -1,0 +1,6 @@
+streamlit==1.24.1
+extra-streamlit-components==0.1.56
+folium
+streamlit-folium
+streamlit_js_eval
+pygsheets
